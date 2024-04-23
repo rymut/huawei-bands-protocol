@@ -2,9 +2,9 @@
 
 ## Request
 
-Tag: 0x01, Value: ?? (len 1) - PERCENT_BYTE (0-100)
-Tag: 0x02, Value: ?? (len 1) - DOWNLOAD STATE 
-Tag: 0x03, Value: ?? (len 1) - DOWNLOAD MODE
+- Tag: 0x01, Value: ?? (len 1) - PERCENT_BYTE (0-100)
+- Tag: 0x02, Value: ?? (len 1) - DOWNLOAD STATE 
+- Tag: 0x03, Value: ?? (len 1) - DOWNLOAD MODE
 
 
 PERCENT_BYTE - value between 0 and 100

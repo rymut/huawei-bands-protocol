@@ -9,4 +9,4 @@ No payload (empty TLvs)
 
 ## Response (request from device)
 
-0x01, len 0x01, value 0 or 1 - verify true false
+- 0x01, len 0x01, value 0 or 1 - verify true false

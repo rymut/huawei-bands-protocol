@@ -2,13 +2,13 @@
 
 ## Request type 1 - answerDeviceRequestStatus
 
-* Tag: 1, Value: 2 (len 1)
+- Tag: 1, Value: 2 (len 1)
 
 ## Request type 2 - answerDeviceRequestDownloadOta
 
-* Tag: 2, Value: ? (len 1) 
+- Tag: 2, Value: ? (len 1) 
     
-* Tag: 3, Value: ? (len 1)
+- Tag: 3, Value: ? (len 1)
     - Value: 2
     - Value: i
 
@@ -16,8 +16,8 @@
 
 getAnswerDeviceStatus no network connected
 
-Tag 2, Value, 3
-Tag 3, Value, 2  
+- Tag 2, Value, 3
+- Tag 3, Value, 2  
 
 ## Respones 
 
