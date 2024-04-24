@@ -1,4 +1,4 @@
-# Command 18
+# Command 18 - sending progress report to watch
 
 ## Request
 
@@ -17,3 +17,5 @@ DOWNLAD_STATE - value 0, 1 or 2
 DOWNLOAD_MODE - value 0 or 1 
     - 0 - auto download
     - 1 - manual download
+
+AFTER setting 100% the data 
